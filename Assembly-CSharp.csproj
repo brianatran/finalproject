@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\CountDownPink.cs" />
      <Compile Include="Assets\Scripts\CountDownWinter.cs" />
      <Compile Include="Assets\Scripts\KeyPressed.cs" />
+     <Compile Include="Assets\Scripts\ReturnGameOver.cs" />
      <Compile Include="Assets\Scripts\ReturnStart.cs" />
      <Compile Include="Assets\Scripts\ReturnStartWin.cs" />
      <Compile Include="Assets\Scripts\StartScreen.cs" />
