@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CountDownWinter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CountDown.cs" Line="8" Column="21" />
+      <File FileName="Assets/Scripts/KeyPressed.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CountDownPink.cs" Line="8" Column="21" />
+      <File FileName="Assets/Scripts/CountDownWinter.cs" Line="8" Column="21" />
+      <File FileName="Assets/Scripts/ReturnStart.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StartScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ReturnStartWin.cs" Line="5" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
